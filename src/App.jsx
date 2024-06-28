@@ -1,10 +1,10 @@
 import React from "react";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import Login from "./components/Login";
-import ParticlesComponent from "./components/particles";
+import ParticlesComponent from "./components/Particles";
 import "./App.css";
 import Register from "./components/Register";
-import Dashboard from "./components/dashboard";
+import Dashboard from "./components/Dashboard";
 
 function App() {
   return (
